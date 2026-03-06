@@ -1,89 +1,39 @@
-# 🔐 Formulário de Login
+# 🚀 Formulário de Login
 
-Projeto simples de um **formulário de login** desenvolvido com **HTML5 e CSS3** para praticar a criação de formulários e a estrutura básica de páginas web.
-
-
----
-
-## 🚀 Tecnologias utilizadas
-
-* HTML5
-* CSS3
-* Git
-* Visual Studio Code
+🔗 Demo: https://igormarcondesdev.github.io/formulario-login/  
+📂 Repositório: https://github.com/Igormarcondesdev/formulario-login  
 
 ---
 
-## 🌐 Acesse o projeto
-
-Você pode visualizar o projeto online pelo GitHub Pages:
-
-👉 https://igormarcondesdev.github.io/formulario-login/
+## 💡 Sobre o projeto
+Projeto de um formulário de login desenvolvido com HTML5 e CSS3, com foco na prática de criação de formulários, estrutura semântica e estilização de páginas web.
 
 ---
 
-## 🖥️ Funcionalidades
-
-* Campo para **usuário**
-* Campo para **senha**
-* Botão **Entrar**
-* Botão **Apagar**
-* Estrutura semântica utilizando:
-
-  * `form`
-  * `fieldset`
-  * `legend`
-  * `label`
-  * `input`
-* Estilização com CSS
-* Layout simples e organizado
+## 🛠️ Tecnologias utilizadas
+- HTML5  
+- CSS3  
 
 ---
 
-## 📁 Estrutura do projeto
-
-```
-formulario-login/
-│
-├── index.html
-├── style.css
-└── README.md
-```
+## 🎯 O que aprendi com esse projeto
+- Criar e estruturar formulários utilizando HTML  
+- Utilizar tags semânticas como `form`, `fieldset`, `legend`, `label` e `input`  
+- Aplicar estilização com CSS para melhorar o layout e organização da página  
 
 ---
 
-## 🎯 Objetivo do projeto
-
-Este projeto foi desenvolvido para praticar:
-
-* Estruturação de formulários em HTML
-* Estilização com CSS
-* Organização de arquivos em projetos web
-* Publicação de projetos usando GitHub Pages
+## 🚀 Próximos passos (melhorias futuras)
+- Adicionar validação de formulário com JavaScript  
+- Melhorar o design e responsividade da página  
+- Integrar com um sistema de autenticação  
 
 ---
 
-## 📷 Preview do projeto
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/64634e58-b2d0-48eb-a9a1-dc6a65fa3c27" alt="Preview do projeto" width="80%">
-</p>
+📌 Status do projeto: Concluído  
+📚 Nível: Iniciante  
 
 ---
 
-## 📚 Aprendizados
-
-Durante o desenvolvimento deste projeto, foram praticados conceitos como:
-
-* Estrutura semântica em HTML
-* Criação de formulários web
-* Estilização básica com CSS
-* Controle de versão com Git
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por **Igor Marcondes**
-
-🔗 GitHub: https://github.com/Igormarcondesdev
+👨‍💻 Desenvolvido por **Igor Marcondes**  
+GitHub: https://github.com/Igormarcondesdev
