@@ -4,24 +4,21 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![Status](https://img.shields.io/badge/status-concluído-green)
 
-Projeto simples de um **formulário de login** desenvolvido com **HTML5 e CSS3** para praticar a criação de formulários e a estrutura básica de páginas web.
-
----
-
-## 🌐 Acesse o projeto
-
-Você pode visualizar o projeto online pelo **GitHub Pages**:
-
-👉 https://igormarcondesdev.github.io/formulario-login/
+Projeto de um **formulário de login** desenvolvido com **HTML5 e CSS3**, com foco na prática de criação de formulários e estruturação de páginas web.
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
 </p>
+
+- **HTML5**
+- **CSS3**
+
+---
 
 ## 🖥️ Funcionalidades
 
@@ -29,7 +26,7 @@ Você pode visualizar o projeto online pelo **GitHub Pages**:
 - Campo para **senha**
 - Botão **Entrar**
 - Botão **Apagar**
-- Estrutura semântica utilizando:
+- Estrutura semântica com:
   - `form`
   - `fieldset`
   - `legend`
@@ -42,11 +39,9 @@ Você pode visualizar o projeto online pelo **GitHub Pages**:
 
 ## 📁 Estrutura do projeto
 
-Descrição dos arquivos:
-
-- **index.html** → Estrutura do formulário de login  
-- **style.css** → Estilização da página (cores, layout e fontes)  
-- **README.md** → Documentação do projeto no GitHub  
+- **index.html** → Estrutura do formulário  
+- **style.css** → Estilização da página  
+- **README.md** → Documentação do projeto  
 
 ---
 
@@ -54,35 +49,24 @@ Descrição dos arquivos:
 
 Este projeto foi desenvolvido para praticar:
 
-- Estruturação de formulários em **HTML**
-- Estilização com **CSS**
+- Estruturação de **formulários em HTML**
+- **Estilização com CSS**
 - Organização de arquivos em **projetos web**
-- Publicação de projetos utilizando **GitHub Pages**
+- Uso de **Git para controle de versão**
 
 ---
 
 ## 📷 Preview do projeto
 
 <p align="center">
-  <img width="1349" height="670" alt="PreviewLogin" src="https://github.com/user-attachments/assets/7f74615e-0ca1-4d47-b3df-1cf3ac6471ec" />
+<img width="1349" height="670" alt="PreviewLogin" src="https://github.com/user-attachments/assets/7f74615e-0ca1-4d47-b3df-1cf3ac6471ec" />
 </p>
-
----
-
-## 📚 Aprendizados
-
-Durante o desenvolvimento deste projeto foram praticados conceitos como:
-
-- Estrutura semântica em **HTML**
-- Criação de **formulários web**
-- Estilização básica com **CSS**
-- Controle de versão com **Git**
 
 ---
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Igor Marcondes**
+**Igor Marcondes**
 
-🔗 GitHub  
+GitHub  
 https://github.com/Igormarcondesdev
