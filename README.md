@@ -66,7 +66,7 @@ Este projeto foi desenvolvido para praticar:
 ## 📷 Preview do projeto
 
 <p align="center">
-  
+  <img width="1349" height="670" alt="PreviewLogin" src="https://github.com/user-attachments/assets/7f74615e-0ca1-4d47-b3df-1cf3ac6471ec" />
 </p>
 
 ---
