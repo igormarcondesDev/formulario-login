@@ -2,6 +2,7 @@
 
 Projeto simples de um **formulário de login** desenvolvido com **HTML5 e CSS3** para praticar a criação de formulários e a estrutura básica de páginas web.
 
+
 ---
 
 ## 🚀 Tecnologias utilizadas
@@ -64,7 +65,9 @@ Este projeto foi desenvolvido para praticar:
 
 ## 📷 Preview do projeto
 
-![Preview do projeto](preview.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64634e58-b2d0-48eb-a9a1-dc6a65fa3c27" alt="Preview do projeto" width="80%">
+</p>
 
 ---
 
