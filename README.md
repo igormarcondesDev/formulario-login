@@ -1,6 +1,7 @@
 # 🔐 Formulário de Login
 
 Projeto simples de um **formulário de login** desenvolvido com **HTML5 e CSS3** para praticar a criação de formulários e a estrutura básica de páginas web.
+<img width="1920" height="751" alt="PreviewLogin" src="https://github.com/user-attachments/assets/64634e58-b2d0-48eb-a9a1-dc6a65fa3c27" />
 
 ---
 
@@ -64,7 +65,10 @@ Este projeto foi desenvolvido para praticar:
 
 ## 📷 Preview do projeto
 
-![Preview do projeto](preview.png)
+<p align="center">
+  <img src="img/preview.png" width="800">
+</p>
+
 
 ---
 
