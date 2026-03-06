@@ -1,54 +1,54 @@
 # 🔐 Formulário de Login
 
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![Status](https://img.shields.io/badge/status-concluído-green)
+
 Projeto simples de um **formulário de login** desenvolvido com **HTML5 e CSS3** para praticar a criação de formulários e a estrutura básica de páginas web.
-
-
----
-
-## 🚀 Tecnologias utilizadas
-
-* HTML5
-* CSS3
-* Git
-* Visual Studio Code
 
 ---
 
 ## 🌐 Acesse o projeto
 
-Você pode visualizar o projeto online pelo GitHub Pages:
+Você pode visualizar o projeto online pelo **GitHub Pages**:
 
 👉 https://igormarcondesdev.github.io/formulario-login/
 
 ---
 
+## 🚀 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- Git
+- Visual Studio Code
+
+---
+
 ## 🖥️ Funcionalidades
 
-* Campo para **usuário**
-* Campo para **senha**
-* Botão **Entrar**
-* Botão **Apagar**
-* Estrutura semântica utilizando:
-
-  * `form`
-  * `fieldset`
-  * `legend`
-  * `label`
-  * `input`
-* Estilização com CSS
-* Layout simples e organizado
+- Campo para **usuário**
+- Campo para **senha**
+- Botão **Entrar**
+- Botão **Apagar**
+- Estrutura semântica utilizando:
+  - `form`
+  - `fieldset`
+  - `legend`
+  - `label`
+  - `input`
+- Estilização com **CSS**
+- Layout simples e organizado
 
 ---
 
 ## 📁 Estrutura do projeto
 
-```
-formulario-login/
-│
-├── index.html
-├── style.css
-└── README.md
-```
+Descrição dos arquivos:
+
+- **index.html** → Estrutura do formulário de login  
+- **style.css** → Estilização da página (cores, layout e fontes)  
+- **README.md** → Documentação do projeto no GitHub  
 
 ---
 
@@ -56,10 +56,10 @@ formulario-login/
 
 Este projeto foi desenvolvido para praticar:
 
-* Estruturação de formulários em HTML
-* Estilização com CSS
-* Organização de arquivos em projetos web
-* Publicação de projetos usando GitHub Pages
+- Estruturação de formulários em **HTML**
+- Estilização com **CSS**
+- Organização de arquivos em **projetos web**
+- Publicação de projetos utilizando **GitHub Pages**
 
 ---
 
@@ -73,12 +73,12 @@ Este projeto foi desenvolvido para praticar:
 
 ## 📚 Aprendizados
 
-Durante o desenvolvimento deste projeto, foram praticados conceitos como:
+Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
-* Estrutura semântica em HTML
-* Criação de formulários web
-* Estilização básica com CSS
-* Controle de versão com Git
+- Estrutura semântica em **HTML**
+- Criação de **formulários web**
+- Estilização básica com **CSS**
+- Controle de versão com **Git**
 
 ---
 
@@ -86,4 +86,5 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos como:
 
 Desenvolvido por **Igor Marcondes**
 
-🔗 GitHub: https://github.com/Igormarcondesdev
+🔗 GitHub  
+https://github.com/Igormarcondesdev
