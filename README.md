@@ -1,34 +1,86 @@
-# 📄 Formulário de Login
+# 🔐 Formulário de Login
 
-Projeto simples de um **formulário de login** desenvolvido utilizando **HTML5 e CSS3**.  
-O objetivo é praticar a criação de formulários web e a organização da estrutura básica de páginas.
-
----
-
-# 🚀 Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- Git
-- Visual Studio Code
+Projeto simples de um **formulário de login** desenvolvido com **HTML5 e CSS3** para praticar a criação de formulários e a estrutura básica de páginas web.
 
 ---
 
-# 📁 Estrutura do projeto
+## 🚀 Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* Git
+* Visual Studio Code
 
 ---
 
-# 🖥️ Funcionalidades
+## 🌐 Acesse o projeto
 
-- Campo para **usuário**
-- Campo para **senha**
-- Estrutura semântica utilizando:
-  - `form`
-  - `fieldset`
-  - `legend`
-- Estilização com CSS
-- Layout simples e organizado
+Você pode visualizar o projeto online pelo GitHub Pages:
+
+👉 https://igormarcondesdev.github.io/formulario-login/
 
 ---
 
-git clone https://github.com/seu-usuario/formulario-login.git
+## 🖥️ Funcionalidades
+
+* Campo para **usuário**
+* Campo para **senha**
+* Botão **Entrar**
+* Botão **Apagar**
+* Estrutura semântica utilizando:
+
+  * `form`
+  * `fieldset`
+  * `legend`
+  * `label`
+  * `input`
+* Estilização com CSS
+* Layout simples e organizado
+
+---
+
+## 📁 Estrutura do projeto
+
+```
+formulario-login/
+│
+├── index.html
+├── style.css
+└── README.md
+```
+
+---
+
+## 🎯 Objetivo do projeto
+
+Este projeto foi desenvolvido para praticar:
+
+* Estruturação de formulários em HTML
+* Estilização com CSS
+* Organização de arquivos em projetos web
+* Publicação de projetos usando GitHub Pages
+
+---
+
+## 📷 Preview do projeto
+
+![Preview do projeto](preview.png)
+
+---
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto, foram praticados conceitos como:
+
+* Estrutura semântica em HTML
+* Criação de formulários web
+* Estilização básica com CSS
+* Controle de versão com Git
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Igor Marcondes**
+
+🔗 GitHub: https://github.com/Igormarcondesdev
