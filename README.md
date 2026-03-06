@@ -67,7 +67,8 @@ Este projeto foi desenvolvido para praticar:
 ## 👨‍💻 Autor
 
 **Igor Marcondes**
- https://igormarcondesdev.github.io/formulario-login/
+Link do projeto
+https://igormarcondesdev.github.io/formulario-login/
 
 GitHub  
 https://github.com/Igormarcondesdev
